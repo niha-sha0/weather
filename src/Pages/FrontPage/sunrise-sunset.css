@@ -1,0 +1,97 @@
+/* Sunrise and Sunset */
+
+.sun_information{
+    background-color: #AFB4FF;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    width: 100%;
+    height: 63.5vh;
+    padding-top: 0.25rem;
+    border-radius: 12px;
+}
+
+.sun{
+    margin: 1rem;
+    width: 92%;
+    height: 5vh;
+    padding-left: 1rem;
+    color: white;
+    background-color: gray;
+    border-radius: 7px;
+    display: flex;
+}
+
+.add_icon{
+    font-size: 1.5rem;
+    padding-top: 5px;
+    margin-left: 20.5rem;
+}
+
+.sunrise_sunset{
+    margin: 1rem;
+    width: 92%;
+    height: 15vh;
+    padding-left: 1rem;
+    color: white;
+    background-color: gray;
+    border-radius: 7px;
+}
+
+.current_location{
+    display: flex;
+    gap: 0.5rem;
+    margin: 0.5px;
+    height: 5vh;
+}
+
+.location_icon{
+    padding-top: 5px;
+    font-size: 1.25rem;
+}
+
+.location_text{
+    margin-top: 5px;
+    font-size: 1.25rem;
+}
+
+.sunrise_sunset_icon{
+    font-size: 4rem;
+    display: flex;
+    width: 100%;
+    height: 10vh;
+}
+
+.sun_icon{
+    color: #FFB84C;
+}
+
+.moon_icon{
+    margin-left: 100px;
+}
+
+.sunrise{
+    margin-left: 10px;
+    font-size: 1rem;
+    height: 8vh;
+    display: flex;
+    flex-direction: column;
+}
+.sunrise_text{
+    margin-top: -10px;
+    color: #FFB84C;
+    font-size: 1.25rem;
+}
+
+.sunset{
+    margin-left: 10px;
+    font-size: 1rem;
+    height: 8vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.sunset_text{
+    margin-top: -10px;
+    color: #FFB84C;
+    font-size: 1.25rem;
+}

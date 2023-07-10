@@ -1,0 +1,27 @@
+.search_bar{
+    display: flex;
+    width: 35%;
+    height: 5vh;
+    margin-top: 1rem;
+    border: 2px solid gray;
+    justify-content: space-around;
+    border-radius: 10px;
+}
+
+.search{
+    border: none;
+    border-color: gray;
+    width: 99.5%;
+    font-size: 1rem;
+    background-color: transparent;
+    overflow: hidden;
+}
+
+.search_button{
+    cursor: pointer;
+    border: none;
+    font-size: 1.50rem;
+    align-items: center;
+    color: gray;
+    background-color: transparent;
+}

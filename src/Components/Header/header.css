@@ -1,0 +1,18 @@
+.header{
+    width: 100%;
+    height: 9vh;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+}
+
+.head{
+    width: 30%;
+    font-size: 2rem;
+}
+
+.github-link{
+    width: 10%;
+    margin-left: 2rem;
+    font-size: 1.75rem;
+}
